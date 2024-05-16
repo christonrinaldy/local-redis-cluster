@@ -22,7 +22,7 @@ Redis Cluster Setup: Automate creation of clustered Redis instances for scalable
 * To establish a Redis cluster, at least 6 Redis instances are required.
 * Make sure the difference between `end_port` and `start_port` is at least 5.
 
-![alt text](https://drive.google.com/file/d/1hUhipUzLrz6tEW1RTFgR7vT4qDFV13CR/view?usp=sharing)
+<iframe src="https://drive.google.com/file/d/1hUhipUzLrz6tEW1RTFgR7vT4qDFV13CR/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ![alt text](https://drive.google.com/file/d/1LaNfWxU2LW_TNgRlW43D4G8TS8A98-aM/view?usp=sharing)
 
