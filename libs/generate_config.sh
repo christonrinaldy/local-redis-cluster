@@ -1,5 +1,5 @@
 # Check if start and end ports are provided as arguments
-if [ $# -ne 2 ]; then
+if [ $# -lt 2 ]; then
     echo "Usage: $0 <start_port> <end_port>"
     exit 1
 fi

@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Check if start port and end port arguments are provided
-if [ $# -ne 2 ]; then
+if [ $# -lt 2 ]; then
   echo "Usage: $0 <start_port> <end_port>"
   exit 1
 fi
