@@ -27,3 +27,5 @@ Redis Cluster Setup: Automate creation of clustered Redis instances for scalable
 ![alt text](https://github.com/christonrinaldy/my-images/blob/master/image-1.png)
 
 ![alt text](https://github.com/christonrinaldy/my-images/blob/master/image-2.png)
+
+![alt text](https://github.com/christonrinaldy/my-images/blob/master/image-3.png)
